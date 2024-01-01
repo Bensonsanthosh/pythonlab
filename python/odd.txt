@@ -1,0 +1,3 @@
+Hi iam good how are you
+how is your study going
+#write a progarm to copy odd lines of the files "stud.txt" to "odd.txt" and copy the even files to the file "even.txt"

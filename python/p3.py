@@ -1,0 +1,6 @@
+n1=int(input("Enter First Number:"))
+n2=int(input("Enter Second Number:"))
+n3=int(input("Enter Third Number:"))
+n4=int(input("Enter Fourth Number:"))
+smallest=min(n1,n2,n3,n4)
+print(f"The Smallest number among {n1},{n2},{n3},{n4} is ",smallest)

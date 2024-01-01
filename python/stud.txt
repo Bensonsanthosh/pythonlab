@@ -1,0 +1,6 @@
+Hello how are you 
+Hi iam good how are you
+Me also good
+how is your study going
+nice
+#write a progarm to copy odd lines of the files "stud.txt" to "odd.txt" and copy the even files to the file "even.txt"
